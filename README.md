@@ -4,8 +4,14 @@ Full-Stack project utilizing the LAMP stack.
 - Languages Used: Bash, PHP, Python
 - Technologies Used: MySQL, Tagsoup
 
-# Getting this Project Running on your Local Machine:
-1. Copy the repository on your local machine. (Project was done on a Linux OS, a VM running linux should be fine)
+# Getting this Project Running on your Local Ubuntu Machine:
+1. Clone the repository on your local machine.
+     - Ensure that you have git installed and set up
+     - git clone https://github.com/ghxlam/EcommerceWebsite
+2. Update and Installing Dependencies:
+     - sudo apt-get update
+     - Intalling MySQL:
+     - sudo apt install mysql-client-core-8.0
 
 # Important Notes about the Project
 - The files quill.txt and staples.txt hold the URLs for the products to be downloaded.
