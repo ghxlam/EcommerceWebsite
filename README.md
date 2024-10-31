@@ -1,8 +1,8 @@
 # EcommerceWebsite
 Full-Stack project utilizing the LAMP stack.
-Project was done on an Ubuntu Linux OS.
-Languages Used: Bash, PHP, Python
-Technologies Used: MySQL, Tagsoup
+- Project was done on an Ubuntu Linux OS.
+- Languages Used: Bash, PHP, Python
+- Technologies Used: MySQL, Tagsoup
 
 # Getting this Project Running on your Local Machine:
 1. Copy the repository on your local machine. (Project was done on a Linux OS, a VM running linux should be fine)
