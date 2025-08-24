@@ -6,7 +6,9 @@ It was also my first time doing web scraping, which taught me how to fetch and p
 
 ***LIVE DEMO***
 
-<img src='https://i.imgur.com/ZXzjOqt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/ZXzjOqt.gif)
+
+[![Video Walkthrough](https://i.imgur.com/ZXzjOqt.gif)](https://i.imgur.com/ZXzjOqt.gif)
 
 
 - **OS:** Ubuntu Linux  
