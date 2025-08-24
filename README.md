@@ -6,6 +6,9 @@ It was also my first time doing web scraping, which taught me how to fetch and p
 
 [***LIVE DEMO***](https://i.imgur.com/ZXzjOqt.gif)
 
+![Video Walkthrough](assets/demo.gif)
+
+
 - **OS:** Ubuntu Linux  
 - **Languages Used:** Bash, PHP, Python  
 - **Technologies Used:** MySQL, Tagsoup  
