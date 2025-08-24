@@ -1,10 +1,33 @@
 # EcommerceWebsite
 
-Full-Stack project utilizing the **LAMP stack**.  
+This was my first full-stack project, built using the **LAMP stack**. The project was very barebones, which gave me a clear view of the skeletal structure of a web application and how the front-end, back-end, and database interact. 
+
+It was also my first time doing web scraping, which taught me how to fetch and parse data from websites, handle changes in website structure, and automate the process of populating a database. Building everything from scratch gave me a deeper appreciation for how web applications function behind the scenes.
+
+***LIVE DEMO***
+
+![Ecommerce Website Demo](https://imgur.com/a/ecommercewebsitedemo-ghxlam-bD8zTbO)
+
 
 - **OS:** Ubuntu Linux  
 - **Languages Used:** Bash, PHP, Python  
 - **Technologies Used:** MySQL, Tagsoup  
+
+---
+
+## Prerequisites
+
+Make sure the following are installed on your machine:
+
+- Git
+- Apache2
+- MySQL Server
+- PHP and `libapache2-mod-php`
+- Python3 and `pip3`
+- OpenJDK 11
+- curl
+
+*If you do not have these installed, I will go through everything in the instructions*
 
 ---
 
@@ -91,3 +114,12 @@ Then visit http://localhost in your web server.
 - The Bash script also calls a Python script, `parser.py`, that goes through the DOM data which was downloaded and proceeds to extract that data into a MySQL Database.
 - Then, the Bash script does clean up, deleting all the files that were originally downloaded for storage management.
 - Once the MySQL Database has been populated, a PHP script will extract the data from the database and display the products on the page simulating an E-Commerce platform.
+
+---
+
+# Future Plans If I Ever Revisit
+- Make the UI look good.
+- Try to make an autonomous setup.
+- Set up a script that repeats every few hours to have constant updated data.
+- Add a payment method wth Stripe.
+- Allow payment to go directly to retailer with me taking a 1% cut.
