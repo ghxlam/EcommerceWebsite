@@ -6,7 +6,7 @@ It was also my first time doing web scraping, which taught me how to fetch and p
 
 ***LIVE DEMO***
 
-![Ecommerce Website Demo](https://imgur.com/a/ecommercewebsitedemo-ghxlam-bD8zTbO)
+<img src='https://i.imgur.com/ZXzjOqt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 - **OS:** Ubuntu Linux  
