@@ -4,12 +4,7 @@ This was my first full-stack project, built using the **LAMP stack**. The projec
 
 It was also my first time doing web scraping, which taught me how to fetch and parse data from websites, handle changes in website structure, and automate the process of populating a database. Building everything from scratch gave me a deeper appreciation for how web applications function behind the scenes.
 
-***LIVE DEMO***
-
-![Video Walkthrough](https://i.imgur.com/ZXzjOqt.gif)
-
-[![Video Walkthrough](https://i.imgur.com/ZXzjOqt.gif)](https://i.imgur.com/ZXzjOqt.gif)
-
+[***LIVE DEMO***](https://i.imgur.com/ZXzjOqt.gif)
 
 - **OS:** Ubuntu Linux  
 - **Languages Used:** Bash, PHP, Python  
