@@ -56,6 +56,10 @@ $similar_query = "SELECT * FROM Products
 
 // Close the connection
 $cnx->close();
+
+/**
+ * THIS FILE HAS SOME ERRORS AND DOES NOT WORK FYI
+ */
 ?>
 
 
